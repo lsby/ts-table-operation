@@ -1,6 +1,6 @@
 {
   "name": "@lsby/table-operation",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/esm/index.mjs",
   "exports": {
     "require": "./dist/cjs/index.js",
@@ -36,5 +36,9 @@
     "@lsby/ts-type-func": "^0.0.1",
     "ramda": "^0.29.0",
     "xlsx": "^0.18.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lsby/ts-table-operation.git"
   }
 }
